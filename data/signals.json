@@ -1,0 +1,54 @@
+{
+  "name": "Camunda IBM SLA Breach Causality Router",
+  "slug": "camunda-ibm-sla-breach-causality-router",
+  "group": "Camunda + IBM",
+  "platforms": [
+    "Camunda",
+    "IBM"
+  ],
+  "vertical": "Platform Engineering / AI Platform",
+  "signals": [
+    {
+      "lane": "process timer drift",
+      "exposure": 58,
+      "savings": 14,
+      "investment": 52,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "batch handoff risk",
+      "exposure": 62,
+      "savings": 17,
+      "investment": 54,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "exception queues",
+      "exposure": 66,
+      "savings": 20,
+      "investment": 56,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "change-window exposure",
+      "exposure": 70,
+      "savings": 23,
+      "investment": 58,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "automation ROI",
+      "exposure": 74,
+      "savings": 26,
+      "investment": 60,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "SLA causality",
+      "exposure": 78,
+      "savings": 29,
+      "investment": 62,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    }
+  ]
+}

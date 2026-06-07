@@ -1,0 +1,10 @@
+{
+  "name": "camunda-ibm-sla-breach-causality-router",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SLA breach causality router across Camunda process timers and IBM workload bottlenecks.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
